@@ -25,4 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjay3005v&show_icons=true&locale=en" alt="sanjay3005v" /></p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/sanjay-v?theme=dark&font=source_code_pro&ext=heatmap)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay3005v&" alt="sanjay3005v" /></p>
