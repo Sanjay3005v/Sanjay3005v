@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay3005v&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay3005v" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjay3005v" alt="sanjay3005v" /></a> </p>
-- 🌱 I’m currently learning **Java Full Stack and Data Structures**
+- 🌱 I’m currently learning **Java Full Stack **
 
 - 📫 How to reach me **sanjay3005v@gmail.com**
 
